@@ -9,7 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -35,20 +34,7 @@
 
 ###
 
-<div align="left">
-  <a href=".vaishnavis" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="vaishnavishitre" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="shitrevaishnavi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/vaishnavi-shitre-03145022a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+
 
 ###
 
@@ -57,3 +43,31 @@
 
 
 ###
+# Welcome to Vaishnavi's Developer Hub! 👩‍💻
+
+Hello there! I'm Vaishnavi, a passionate web developer currently diving into the world of SAP. This repository serves as my personal space to showcase my projects, share my insights, and connect with fellow developers.
+
+## About Me
+
+I am proficient in JavaScript, React, MERN stack, HTML, CSS, and Python. With a strong foundation in these technologies, I strive to create meaningful and innovative solutions.
+
+
+
+
+
+## Learning Journey
+
+Currently, I'm focusing on learning SAP to broaden my skill set and explore new opportunities in enterprise software development.
+
+## Connect with Me
+
+Let's connect and collaborate! You can find me on various social media platforms:
+
+- [LinkedIn](www.linkedin.com/in/vaishnavi-shitre-03145022a)
+- [GitHub](https://github.com/vaishnavishitre)
+- [Gmail](shitrevaishnavi@gmail.com)
+
+## Get in Touch
+
+Have any questions, suggestions, or just want to say hi? Feel free to reach out to me via [email](mailto:shitrevaishnavi@gmail.com). 🚀
+
